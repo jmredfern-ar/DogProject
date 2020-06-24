@@ -7,7 +7,7 @@ public class Cat {
 	private String address;
 	private int age;
 	boolean isFinicky;
-	boolean isAMouser;
+	boolean isAMouser; //Is the cat a mouser or not?
 	
 	public Cat(String name, int age, boolean isFinicky) {
 		this.name = name;
