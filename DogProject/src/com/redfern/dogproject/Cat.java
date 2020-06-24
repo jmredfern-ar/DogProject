@@ -7,6 +7,7 @@ public class Cat {
 	private String address;
 	private int age;
 	boolean isFinicky;
+	boolean isAMouser;
 	
 	public Cat(String name, int age, boolean isFinicky) {
 		this.name = name;

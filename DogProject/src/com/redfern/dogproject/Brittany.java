@@ -1,6 +1,8 @@
 package com.redfern.dogproject;
 
 public class Brittany extends Dog {
+	
+	private boolean isFast = true;
 
 	public Brittany() {
 	}
